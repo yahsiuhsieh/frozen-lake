@@ -45,7 +45,9 @@ python policy_iteration.py
 
 ## Results
 
-The resulting image would show the average success rate versus the number of episode. The example below shows the average success rate of value iteration algorithm with 50 episodes.
+The resulting image would show the average success rate versus the number of episode. 
+
+The example below shows the average success rate of value iteration algorithm with 50 episodes.
 
 <p align="center">
   <img width="500" height="300" src="https://github.com/arthur960304/frozen-lake/blob/main/images/VI.png">
