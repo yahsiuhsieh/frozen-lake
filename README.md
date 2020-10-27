@@ -3,7 +3,7 @@
 Value Iteration, Policy Iteration and Q learning on Frozen lake gym env
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/arthur960304/frozen-lake/blob/main/images/frozen-lake.png">
+  <img width="400" height="350" src="https://github.com/arthur960304/frozen-lake/blob/main/images/frozen-lake.png">
 </p>
 
 The goal of this game is to **go from the starting state (S) to the goal state (G)** by walking only on frozen tiles (F) and avoid holes (H). However, the ice is slippery, so you won't always move in the direction you intend **(stochastic environment)**.
@@ -48,7 +48,7 @@ python policy_iteration.py
 The resulting image would show the average success rate versus the number of episode. The example below shows the average success rate of value iteration algorithm with 50 episodes.
 
 <p align="center">
-  <img width="400" height="250" src="https://github.com/arthur960304/frozen-lake/blob/main/images/VI.png">
+  <img width="500" height="300" src="https://github.com/arthur960304/frozen-lake/blob/main/images/VI.png">
 </p>
 
 ## Authors
