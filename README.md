@@ -28,7 +28,7 @@ These instructions will get you a copy of the project up and running on your loc
 ├── src                     # Python scripts
 │   ├── value_iteration.py  # VI algorithm
 │   ├── policy_iteration.py # PI algorithm
-│   ├── q_learning.py       # Q learning algorithm
+│   ├── q_learning.py       # Q-learning algorithm
 │   └── utils.py            # Utility sets
 ├── images                  # Results
 └── README.md
@@ -36,7 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Tests
 
-There are 3 methods you can try, namely policy iteration, value iteration, and Q learning, with corresponding file name.
+There are 3 methods you can try, namely *policy iteration*, *value iteration*, and *Q-learning*, with corresponding file name.
 
 ex. if you want to try policy iteration, just do
 ```
