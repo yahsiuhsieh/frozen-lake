@@ -1,6 +1,6 @@
 # Frozen Lake
 
-Value Iteration, Policy Iteration and Q learning on Frozen lake gym env
+Value Iteration, Policy Iteration and Q learning in Frozen lake gym env
 
 <p align="center">
   <img width="400" height="350" src="https://github.com/arthur960304/frozen-lake/blob/main/images/frozen-lake.png">
